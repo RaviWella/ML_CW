@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./ucimlrepo-main/src"
+    ]
+}

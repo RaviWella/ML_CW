@@ -1,4 +1,4 @@
-# Income Prediction Syatem
+# Income Prediction System
 
 Introduction:
 
